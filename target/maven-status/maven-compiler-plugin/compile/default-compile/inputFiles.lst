@@ -20,6 +20,7 @@
 /Users/guantai.muthomi/Downloads/JWT-API/src/main/java/com/springjwt/configuration/JwtAuthenticationEntryPoint.java
 /Users/guantai.muthomi/Downloads/JWT-API/src/main/java/com/springjwt/util/JwtUtil.java
 /Users/guantai.muthomi/Downloads/JWT-API/src/main/java/com/springjwt/configuration/SimpleCorsFilter.java
+/Users/guantai.muthomi/Downloads/JWT-API/src/main/java/com/springjwt/services/Messages/MessageLogServiceImpl.java
 /Users/guantai.muthomi/Downloads/JWT-API/src/main/java/com/springjwt/services/Product/ProductServiceImpl.java
 /Users/guantai.muthomi/Downloads/JWT-API/src/main/java/com/springjwt/messaging/ProductMessageConsumer.java
 /Users/guantai.muthomi/Downloads/JWT-API/src/main/java/com/springjwt/configuration/WebSecurityConfiguration.java
@@ -36,3 +37,4 @@
 /Users/guantai.muthomi/Downloads/JWT-API/src/main/java/com/springjwt/repositories/ProductRepository.java
 /Users/guantai.muthomi/Downloads/JWT-API/src/main/java/com/springjwt/controllers/ForgotPassController.java
 /Users/guantai.muthomi/Downloads/JWT-API/src/main/java/com/springjwt/services/Email/EmailServiceImpl.java
+/Users/guantai.muthomi/Downloads/JWT-API/src/main/java/com/springjwt/services/Messages/MessageLogService.java
